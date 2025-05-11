@@ -1,0 +1,142 @@
+const User = require("../model/UserSchema");
+const Appointment = require("../model/AppointmentSchema")
+const Doctor = require("../model/DoctorSchema");
+const HospitalAdmin = require("../model/hospitalAdminSchema")
+const bcrypt = require("bcryptjs");
+const jwt = require("jsonwebtoken");
+
+
+const addUser = async (req, res) => {
+    try {
+      const { name, email, password, phone, hospital } = req.body;
+  
+      const hashedPassword = await bcrypt.hash(password, 10);
+  
+      const newHospitalAdmin = new HospitalAdmin({
+        name,
+        email,
+        password: hashedPassword,
+        phone,
+        hospital: hospital,
+      });
+  
+      await newHospitalAdmin.save();
+  
+      res.status(201).json({ success: true, message: "User created successfully" });
+    } catch (err) {
+      console.error(err);
+      res.status(400).json({ success: false, message: err.message });
+    }
+  };
+
+
+  const getAppointmentStats = async (req, res) => {
+    try {
+      // Fetch all appointments
+      const appointments = await Appointment.find();
+  
+      // Total earnings from completed appointments
+      const totalEarnings = appointments
+        .filter(app => app.isCompleted)
+        .reduce((sum, app) => sum + (app.amount || 0), 0);
+  
+      // Total number of appointments
+      const totalAppointments = appointments.length;
+  
+      // Unique patient emails (assuming userData.email exists)
+      const uniquePatientEmails = new Set(
+        appointments.map(app => app.userEmail).filter(Boolean)
+      );
+  
+    //   console.log(uniquePatientEmails.size)
+      const totalPatients = uniquePatientEmails.size;
+  
+      // Send response
+      return res.status(200).json({
+        success: true,
+        totalEarnings,
+        totalAppointments,
+        totalPatients
+      });
+  
+    } catch (error) {
+      console.error("Error getting appointment stats:", error);
+      res.status(500).json({ success: false, message: "Server Error" });
+    }
+  };
+  
+
+  const getDoctors =  async (req, res) => {
+    // const token = req.headers.atoken;
+    const token = req.headers['atoken'];
+
+  
+    // console.log("token is ghg",token)
+
+    if (!token) {
+      return res.status(401).json({ success: false, message: "No token provided" });
+    }
+  
+    try {
+      const decoded = jwt.verify(token, process.env.SECRET_KEY); // Use your secret
+    //   console.log("decoded data ",decoded._id)
+    //   const admin = await HospitalAdmin.find(decoded.email);
+    const admin = await HospitalAdmin.findOne({ email: decoded.email });
+
+  
+      if (!admin) {
+        return res.status(404).json({ success: false, message: "Admin not found" });
+      }
+  
+      const hospitalId = admin.hospital;
+  
+      const doctors = await Doctor.find({ hospital: hospitalId });
+      const appointments = await Appointment.find()
+
+      console.log("appointments is:",appointments);
+  
+      return res.status(200).json({
+        success: true,
+        count: doctors.length,
+        doctors,
+        latestAppointments:appointments.reverse()
+      });
+  
+    } catch (error) {
+      console.error("Error fetching doctors:", error);
+      res.status(500).json({ success: false, message: "Server error" });
+    }
+  };
+
+
+  const fetchAppointments =  async (req, res) => {
+    // const token = req.headers.atoken;
+    const token = req.headers['atoken'];
+
+  
+    // console.log("token is ghg",token)
+
+    if (!token) {
+      return res.status(401).json({ success: false, message: "No token provided" });
+    }
+
+    try{
+  
+      const appointments = await Appointment.find()
+
+      console.log("appointments is:",appointments);
+  
+      return res.status(200).json({
+        success: true,
+        AllAppointments:appointments
+      });
+  
+    } catch (error) {
+      console.error("Error fetching doctors:", error);
+      res.status(500).json({ success: false, message: "Server error" });
+    }
+  };
+
+
+  module.exports = {addUser,getAppointmentStats,getDoctors,fetchAppointments}
+  

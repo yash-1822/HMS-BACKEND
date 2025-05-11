@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Dr. Rajesh Kumar",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (Cardiology), DM (Cardiology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543210",
+    "email": "rajesh.kumar@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anjali Sharma",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (Cardiology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456789",
+    "email": "anjali.sharma@fortis.com",
+    "gender": "Female",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arvind Menon",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (Internal Medicine), DM (Cardiology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776655",
+    "email": "arvind.menon@narayana.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sneha Iyer",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (Cardiology), FACC",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677889",
+    "email": "sneha.iyer@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Vivek Nair",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (General Medicine), DM (Cardiology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9112233445",
+    "email": "vivek.nair@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Suresh Babu",
+    "specialty": "Neurologist",
+    "qualification": "MBBS, MD (Neurology), DM (Neurology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543211",
+    "email": "suresh.babu@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Meena Reddy",
+    "specialty": "Neurologist",
+    "qualification": "MBBS, MD (Internal Medicine), DM (Neurology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456790",
+    "email": "meena.reddy@fortis.com",
+    "gender": "Female",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Arun Prasad",
+    "specialty": "Neurologist",
+    "qualification": "MBBS, MD (Neurology), DM (Neurology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776656",
+    "email": "arun.prasad@narayana.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Kavitha Rao",
+    "specialty": "Neurologist",
+    "qualification": "MBBS, MD (Neurology), DM (Neurology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677890",
+    "email": "kavitha.rao@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ramesh Naidu",
+    "specialty": "Neurologist",
+    "qualification": "MBBS, MD (General Medicine), DM (Neurology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9112233446",
+    "email": "ramesh.naidu@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Lakshmi Devi",
+    "specialty": "Gynecologist",
+    "qualification": "MBBS, MD (Gynecology), DNB (Obstetrics & Gynecology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543221",
+    "email": "lakshmi.devi@apollo.com",
+    "gender": "Female",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anuradha Reddy",
+    "specialty": "Gynecologist",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456791",
+    "email": "anuradha.reddy@fortis.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Priyanka Sharma",
+    "specialty": "Gynecologist",
+    "qualification": "MBBS, MD (Gynecology), FICOG",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776657",
+    "email": "priyanka.sharma@narayana.com",
+    "gender": "Female",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Sangeetha Rao",
+    "specialty": "Gynecologist",
+    "qualification": "MBBS, DGO, MD (Obstetrics & Gynecology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677891",
+    "email": "sangeetha.rao@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Madhavi Naidu",
+    "specialty": "Gynecologist",
+    "qualification": "MBBS, MS (Gynecology), MRCOG",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9112233447",
+    "email": "madhavi.naidu@medicover.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Rajeev Kumar",
+    "specialty": "Dentist",
+    "qualification": "BDS, MDS (Oral and Maxillofacial Surgery)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543231",
+    "email": "rajeev.kumar@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Venkatesh Reddy",
+    "specialty": "Dentist",
+    "qualification": "BDS, MDS (Prosthodontics)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456792",
+    "email": "venkatesh.reddy@fortis.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anand Prasad",
+    "specialty": "Dentist",
+    "qualification": "BDS, MDS (Orthodontics)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776658",
+    "email": "anand.prasad@narayana.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Suresh Babu",
+    "specialty": "Dentist",
+    "qualification": "BDS, MDS (Periodontics)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677892",
+    "email": "suresh.babu@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Prakash Naidu",
+    "specialty": "Dentist",
+    "qualification": "BDS, MDS (Endodontics)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9112233448",
+    "email": "prakash.naidu@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543241",
+    "email": "arjun.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Naveen Kumar",
+    "specialty": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456793",
+    "email": "naveen.kumar@fortis.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Raghavendra Rao",
+    "specialty": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology), FADS",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776659",
+    "email": "raghavendra.rao@narayana.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Naidu",
+    "specialty": "Dermatologist",
+    "qualification": "MBBS, MD (Dermatology, Cosmetology & Trichology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677893",
+    "email": "sandeep.naidu@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Varun Krishna",
+    "specialty": "Dermatologist",
+    "qualification": "MBBS, DDVL (Diploma in Dermatology, Venereology & Leprosy)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9112233449",
+    "email": "varun.krishna@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ramesh Babu",
+    "specialty": "Orthopedic Surgeon",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543251",
+    "email": "ramesh.babu@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anil Kumar",
+    "specialty": "Orthopedic Surgeon",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456789",
+    "email": "anil.kumar@kims.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Suresh Reddy",
+    "specialty": "Orthopedic Surgeon",
+    "qualification": "MBBS, DNB (Orthopedics)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776655",
+    "email": "suresh.reddy@medicover.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Priya Sharma",
+    "specialty": "Orthopedic Surgeon",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677889",
+    "email": "priya.sharma@sunshine.com",
+    "gender": "Female",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Meera Nair",
+    "specialty": "Orthopedic Surgeon",
+    "qualification": "MBBS, MCh (Orthopedics)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233445",
+    "email": "meera.nair@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anil Kumar",
+    "specialty": "Ophthalmologist",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456794",
+    "email": "anil.kumar@lvpeh.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sneha Reddy",
+    "specialty": "Ophthalmologist",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776670",
+    "email": "sneha.reddy@narayana.com",
+    "gender": "Female",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Vikram Choudhary",
+    "specialty": "Ophthalmologist",
+    "qualification": "MBBS, DNB (Ophthalmology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543210",
+    "email": "vikram.choudhary@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialty": "Ophthalmologist",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677888",
+    "email": "pooja.sharma@agarwaleye.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Rajesh Naidu",
+    "specialty": "Ophthalmologist",
+    "qualification": "MBBS, FRCS (Ophthalmology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233440",
+    "email": "rajesh.naidu@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sumanth Reddy",
+    "specialty": "Pulmonologist",
+    "qualification": "MBBS, MD (Pulmonary Medicine)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9556677894",
+    "email": "sumanth.reddy@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Rajesh Naidu",
+    "specialty": "Pulmonologist",
+    "qualification": "MBBS, DNB (Respiratory Medicine)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543280",
+    "email": "rajesh.naidu@apollo.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Praveen Kumar",
+    "specialty": "Pulmonologist",
+    "qualification": "MBBS, DM (Pulmonology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456785",
+    "email": "praveen.kumar@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Anil Choudhary",
+    "specialty": "Pulmonologist",
+    "qualification": "MBBS, MD (Pulmonary Medicine)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677855",
+    "email": "anil.choudhary@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Pooja Sharma",
+    "specialty": "Pulmonologist",
+    "qualification": "MBBS, DNB (Respiratory Medicine)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9112233456",
+    "email": "pooja.sharma@sunshine.com",
+    "gender": "Female",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Mahesh Reddy",
+    "specialty": "Gastroenterologist",
+    "qualification": "MBBS, DM (Gastroenterology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543215",
+    "email": "mahesh.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Raghavendra Naidu",
+    "specialty": "Gastroenterologist",
+    "qualification": "MBBS, MD (Gastroenterology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456783",
+    "email": "raghav.naidu@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Prakash Choudhary",
+    "specialty": "Gastroenterologist",
+    "qualification": "MBBS, DNB (Gastroenterology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776622",
+    "email": "prakash.choudhary@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Kumar",
+    "specialty": "Gastroenterologist",
+    "qualification": "MBBS, DM (Gastroenterology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677820",
+    "email": "sandeep.kumar@sunshine.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialty": "Gastroenterologist",
+    "qualification": "MBBS, DM (Gastroenterology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233490",
+    "email": "neha.sharma@aiims.com",
+    "gender": "Female",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Rajesh Verma",
+    "specialty": "Endocrinologist",
+    "qualification": "MBBS, DM (Endocrinology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543219",
+    "email": "rajesh.verma@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Suresh Reddy",
+    "specialty": "Endocrinologist",
+    "qualification": "MBBS, MD (Endocrinology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456777",
+    "email": "suresh.reddy@kims.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Anil Kumar",
+    "specialty": "Endocrinologist",
+    "qualification": "MBBS, DNB (Endocrinology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776644",
+    "email": "anil.kumar@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Pradeep Naidu",
+    "specialty": "Endocrinologist",
+    "qualification": "MBBS, DM (Endocrinology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677833",
+    "email": "pradeep.naidu@sunshine.com",
+    "gender": "Male",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Ramesh Choudhary",
+    "specialty": "Endocrinologist",
+    "qualification": "MBBS, DM (Endocrinology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233466",
+    "email": "ramesh.choudhary@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ramesh Reddy",
+    "specialty": "Pediatrician",
+    "qualification": "MBBS, MD (Pediatrics)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543271",
+    "email": "ramesh.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Karthik Naidu",
+    "specialty": "Pediatrician",
+    "qualification": "MBBS, DNB (Pediatrics)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456773",
+    "email": "karthik.naidu@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Praveen Kumar",
+    "specialty": "Pediatrician",
+    "qualification": "MBBS, MD (Pediatrics)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776621",
+    "email": "praveen.kumar@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialty": "Pediatrician",
+    "qualification": "MBBS, MD (Pediatrics)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233491",
+    "email": "neha.sharma@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Priya Iyer",
+    "specialty": "Pediatrician",
+    "qualification": "MBBS, DCH (Pediatrics)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677825",
+    "email": "priya.iyer@sunshine.com",
+    "gender": "Female",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Obstetrician",
+    "qualification": "MBBS, MD (Obstetrics & Gynecology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543280",
+    "email": "arjun.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Kumar",
+    "specialty": "Obstetrician",
+    "qualification": "MBBS, DNB (Obstetrics & Gynecology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456765",
+    "email": "sandeep.kumar@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Neha Sharma",
+    "specialty": "Obstetrician",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776677",
+    "email": "neha.sharma@medicover.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Priya Iyer",
+    "specialty": "Obstetrician",
+    "qualification": "MBBS, MD (Obstetrics & Gynecology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677810",
+    "email": "priya.iyer@sunshine.com",
+    "gender": "Female",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ananya Reddy",
+    "specialty": "Obstetrician",
+    "qualification": "MBBS, DGO (Obstetrics & Gynecology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233456",
+    "email": "ananya.reddy@aiims.com",
+    "gender": "Female",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  },
+  {
+    "name": "Dr. Ramesh Reddy",
+    "specialty": "Psychiatrist",
+    "qualification": "MBBS, MD (Psychiatry)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543210",
+    "email": "ramesh.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arvind Kumar",
+    "specialty": "Psychiatrist",
+    "qualification": "MBBS, DNB (Psychiatry)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456789",
+    "email": "arvind.kumar@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Naidu",
+    "specialty": "Psychiatrist",
+    "qualification": "MBBS, MD (Psychiatry)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776654",
+    "email": "sandeep.naidu@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Prakash Verma",
+    "specialty": "Psychiatrist",
+    "qualification": "MBBS, DPM (Psychiatry)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677842",
+    "email": "prakash.verma@sunshine.com",
+    "gender": "Male",
+    "Hours": "Monday:[2 PM - 8 PM],Tuesday:[2 PM - 8 PM],Wednesday:[2 PM - 8 PM],Thursday:[2 PM - 8 PM],Friday:[2 PM - 8 PM],Saturday:[10 AM - 4 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ravi Choudhary",
+    "specialty": "Psychiatrist",
+    "qualification": "MBBS, MD (Psychiatry)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233488",
+    "email": "ravi.choudhary@aiims.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ramesh Reddy",
+    "specialty": "Hematologist",
+    "qualification": "MBBS, MD (Hematology)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543231",
+    "email": "ramesh.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[9 AM - 1 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arvind Kumar",
+    "specialty": "Hematologist",
+    "qualification": "MBBS, DM (Clinical Hematology)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456744",
+    "email": "arvind.kumar@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Naidu",
+    "specialty": "Hematologist",
+    "qualification": "MBBS, MD (Pathology, Hematology)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776633",
+    "email": "sandeep.naidu@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Prakash Verma",
+    "specialty": "Hematologist",
+    "qualification": "MBBS, DNB (Hematology)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677811",
+    "email": "prakash.verma@sunshine.com",
+    "gender": "Male",
+    "Hours": "Monday:[10 AM - 6 PM],Tuesday:[10 AM - 6 PM],Wednesday:[10 AM - 6 PM],Thursday:[10 AM - 6 PM],Friday:[10 AM - 6 PM],Saturday:[10 AM - 2 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ananya Reddy",
+    "specialty": "Hematologist",
+    "qualification": "MBBS, DM (Hematology)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233412",
+    "email": "ananya.reddy@aiims.com",
+    "gender": "Female",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ramesh Reddy",
+    "specialty": "General Surgeon",
+    "qualification": "MBBS, MS (General Surgery)",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "contact": "+91-9876543251",
+    "email": "ramesh.reddy@apollo.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Arvind Kumar",
+    "specialty": "General Surgeon",
+    "qualification": "MBBS, DNB (General Surgery)",
+    "location": "Vijayawada, Andhra Pradesh",
+    "contact": "+91-9123456722",
+    "email": "arvind.kumar@kims.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Sandeep Naidu",
+    "specialty": "General Surgeon",
+    "qualification": "MBBS, MS (General Surgery)",
+    "location": "Guntur, Andhra Pradesh",
+    "contact": "+91-9988776655",
+    "email": "sandeep.naidu@medicover.com",
+    "gender": "Male",
+    "Hours": "Monday:[9 AM - 1 PM],Tuesday:[Closed],Wednesday:[3 PM - 7 PM],Thursday:[Closed],Friday:[9 AM - 1 PM],Saturday:[Closed],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Prakash Verma",
+    "specialty": "General Surgeon",
+    "qualification": "MBBS, MCh (General Surgery)",
+    "location": "Tirupati, Andhra Pradesh",
+    "contact": "+91-9556677833",
+    "email": "prakash.verma@sunshine.com",
+    "gender": "Male",
+    "Hours": "Monday:[8 AM - 2 PM],Tuesday:[8 AM - 2 PM],Wednesday:[8 AM - 2 PM],Thursday:[8 AM - 2 PM],Friday:[8 AM - 2 PM],Saturday:[9 AM - 12 PM],Sunday:[Closed]"
+  },
+  {
+    "name": "Dr. Ananya Reddy",
+    "specialty": "General Surgeon",
+    "qualification": "MBBS, MS (General Surgery)",
+    "location": "Mangalagiri, Andhra Pradesh",
+    "contact": "+91-9112233434",
+    "email": "ananya.reddy@aiims.com",
+    "gender": "Female",
+    "Hours": "Saturday:[9 AM - 5 PM],Sunday:[9 AM - 3 PM]"
+  }
+]
