@@ -341,7 +341,6 @@ const updateUserDetails = async(req,res) => {
         gender,
         age,
         address,
-        imageUrl
       },
       { new: true }
     );
