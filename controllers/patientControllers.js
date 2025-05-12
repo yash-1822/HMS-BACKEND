@@ -51,14 +51,14 @@ const register = async (req, res) => {
     await newUser.save();
 
     // Send confirmation email to the registered user
-    const mailOptions = {
-      from: process.env.EMAIL_USER,      // Sender email
-      to: email,                         // Recipient email
-      subject: "Welcome to Hospital Management System",
-      text: `Hi ${name},\n\nThank you for registering! Your account is currently pending approval.\n\nRegards,\nHospital Management Team`,
-    };
+    // const mailOptions = {
+    //   from: process.env.EMAIL_USER,      // Sender email
+    //   to: email,                         // Recipient email
+    //   subject: "Welcome to Hospital Management System",
+    //   text: `Hi ${name},\n\nThank you for registering! Your account is currently pending approval.\n\nRegards,\nHospital Management Team`,
+    // };
 
-    await transporter.sendMail(mailOptions);
+    // await transporter.sendMail(mailOptions);
 
     // Respond back with success
     return res.status(201).json({ message: "User registered successfully and email sent", newUser });
